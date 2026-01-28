@@ -60,6 +60,7 @@ src/
 ## 🚀 Como rodar o projeto
 
 ```bash
+clone repositório
 npm install
 npm run dev
 ```
@@ -79,22 +80,6 @@ http://localhost:5173
 * Comparar períodos
 * Autenticação
 * Modo dark
-
----
-
-## 🖼️ Ícone do projeto
-
-Sugestão de ícone:
-
-* chart-line
-* dashboard
-* analytics
-
-Sites para pegar ícones:
-
-* [https://lucide.dev/icons](https://lucide.dev/icons)
-* [https://heroicons.com](https://heroicons.com)
-* [https://tabler-icons.io](https://tabler-icons.io)
 
 ---
 
