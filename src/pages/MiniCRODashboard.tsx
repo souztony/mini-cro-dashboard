@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
-import { mockData, PageKey } from "../data/mock";
+import { mockData } from "../data/mock";
+import type { PageKey } from "../data/mock";
 import { MetricCard } from "../components/MetricCard";
 import {
   LineChart,
